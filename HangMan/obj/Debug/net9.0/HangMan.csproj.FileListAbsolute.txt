@@ -1,0 +1,15 @@
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\bin\Debug\net9.0\HangMan.exe
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\bin\Debug\net9.0\HangMan.deps.json
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\bin\Debug\net9.0\HangMan.runtimeconfig.json
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\bin\Debug\net9.0\HangMan.dll
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\bin\Debug\net9.0\HangMan.pdb
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.AssemblyInfoInputs.cache
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.AssemblyInfo.cs
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.sourcelink.json
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.dll
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\refint\HangMan.dll
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.pdb
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\HangMan.genruntimeconfig.cache
+C:\Users\Aslı Çolakoğlu\Documents\GitHub\Hang-Man-wtih-CSharp\HangMan\obj\Debug\net9.0\ref\HangMan.dll
