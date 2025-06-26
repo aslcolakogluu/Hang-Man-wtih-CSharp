@@ -10,17 +10,17 @@ namespace HangMan
         {
             while (true)
             {
-                //Word List
+                
                 string[] words = { "apple", "pencil", "program", "device", "book", "study", "university" };
                 Random rnd = new Random();
                 string selectedWord = words[rnd.Next(words.Length)].ToLower();
 
-                //variables
+                
                 char[] guessedLetters = new string('_', selectedWord.Length).ToCharArray();
                 List<char> wrongGuesses = new List<char>();
                 int remainingTries = 3;
 
-                //Game loop
+                
                 while (remainingTries > 0 && new string(guessedLetters) != selectedWord)
                 {
                     Console.Clear();
@@ -32,7 +32,7 @@ namespace HangMan
 
                     string input = Console.ReadLine().ToLower();
 
-                    //Input Kontrol
+                    
                     if (string.IsNullOrWhiteSpace(input) || input.Length != 1 || !char.IsLetter(input[0]))
                     {
                         Console.WriteLine("Please enter one letter!");
@@ -42,7 +42,7 @@ namespace HangMan
 
                     char guess = input[0];
 
-                    //Entered before?
+                    
                     if (new string(guessedLetters).Contains(guess) || wrongGuesses.Contains(guess))
                     {
                         Console.WriteLine("You entered this letter before!");
@@ -50,7 +50,7 @@ namespace HangMan
                         continue;
                     }
 
-                    //Correct guess?
+                    
                     if (selectedWord.Contains(guess))
                     {
                         for (int i = 0; i < selectedWord.Length; i++)
@@ -68,7 +68,7 @@ namespace HangMan
                     }
                 }
 
-                //Game Result
+                
                 Console.Clear();
                 if (new string(guessedLetters) == selectedWord)
                 {
@@ -80,7 +80,7 @@ namespace HangMan
 
                 }
 
-                //Play Again
+                
                 Console.WriteLine("\nPlay again? (y/n): ");
                 string again = Console.ReadLine().ToLower();
                 if (again != "y")

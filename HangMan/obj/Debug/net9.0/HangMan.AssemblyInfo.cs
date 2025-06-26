@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HangMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e21755a5a2f38eb0c30e2eeacf6fc7167b30d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9bd0da0b1e316250ae28822e66c001f8f59e7e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HangMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HangMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
